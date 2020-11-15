@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "keyv": "^4.0.3"
+  },
+  "name": "gen_bot_public",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Scorpzy#6969",
+  "license": "ISC"
+}
